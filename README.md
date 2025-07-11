@@ -42,5 +42,5 @@ A personal desktop voice assistant built with Python, inspired by Iron Man’s J
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/jarvis-python-assistant.git
-   cd jarvis-python-assistant
+   git clone https://github.com/animesh-cloud/JARVIS
+   cd JARVIS
